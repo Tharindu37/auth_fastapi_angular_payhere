@@ -1,0 +1,6 @@
+fastapi[standard]
+sqlmodel==0.0.24
+passlib[bcrypt]
+python-jose==3.5.0
+python-multipart==0.0.20
+python-dotenv==1.1.1
